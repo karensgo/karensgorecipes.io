@@ -1,0 +1,127 @@
+* {
+    width: 883px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    font-weight: 900;
+    font size: 34px;
+}
+link {
+    display: none;
+}
+
+#mainTitle {
+    color: #FFB300;
+    font-weight: 007;
+    font-size: 89px;
+    line-height: 79px;
+}
+
+.modelo {
+    width: 883px;
+    height: 374px;
+    border-radius: 8px;
+    box-shadow: 5px 8px 20px #999999;
+}
+
+.author {
+    color: black;
+    font-size: 21px;
+    font-weight: 700;
+    text-align: right;
+}
+
+.descri {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;    
+}
+
+p:empty {
+    
+    height: 5px;
+    width: 50%;
+    background-color: #99999999;
+    margin-top: 34px;
+    margin-bottom: 34px;
+}
+
+strong {
+    font-size:black;
+}
+
+p {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.ing {
+    font-size: 34px;
+    font-weight: 900;
+    color: #ffb300;
+}
+
+ul > li {
+    font-size: 21px;
+    font-weight: 600;
+    list-style: 1.61;
+}
+
+.prep {
+    font-size: 34px;
+    font-weight: 900;
+    color: #ffb300;
+}
+ 
+ol > li {
+    font-size: 21px;
+    font-weight: 600;
+    list-style: 1.61;
+}
+
+.dicas {
+    font-size: 34px;
+    font-weight: 900;
+    color: #ffb300;
+}
+
+.final {
+    width: 883px;
+    height: 374px;
+    border-radius: 8px;
+    box-shadow: 5px 8px 20px #999999;
+
+}
+
+.dica1 {
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+}
+.pronto1 {
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+}
+
+.vid {
+    font-size: 34px;
+    font-weight: 900;
+    color: #ffb300;
+}
+
+iframe {
+    border-radius: 8px;
+    box-shadow: 5px 8px 20px #999999;
+}
+
+.tagfi {
+    margin: 30px 0;
+    text-align: left;
+    font-size: 21px;
+    font-weight: bold;
+    color: #0037b3;
+    transition: 0.2s;
+    
+}
+
